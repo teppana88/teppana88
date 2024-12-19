@@ -6,15 +6,15 @@ Additionally, I'm a certified Scrum Master with over 23 years of diverse experie
 
 ## Curretly I'm
 
-- **Working on**: Migrating/refactoring an iOS UIKit application to SwiftUI.
-- **Exploring**: Optimization of automated unit/UI tests through CI/CD pipelines and Firebase Test Lab.
+- **Working on**: Spring Boot backend application with high availability and increased security requirements.
+- **Exploring**: Monitoring, observability and CI/CD pipelines.
 - **Learning**: Continuously upskilling via Udemy, with over 18,000 minutes of coursework last year (2023).
 - **Based in**: Espoo, Finland.
 
 ## When I code mobile applications, I rely on
 
 <p>
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-E34F26?style=flat-square&logo=Swift&logoColor=white" />
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-E34F26?style=flat-square&logo=Swift&logoColor=white" />
 <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-E34F26?style=flat-square&logo=Swift&logoColor=white" />
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
 <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-3DDC84?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -25,6 +25,7 @@ Additionally, I'm a certified Scrum Master with over 23 years of diverse experie
 ## When I work with cloud services & tools, I rely on
 
 <p>
+<img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
