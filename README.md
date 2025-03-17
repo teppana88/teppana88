@@ -8,7 +8,7 @@ Additionally, I'm a certified Scrum Master with over 23 years of diverse experie
 
 - **Working on**: Spring Boot backend application with high availability and increased security requirements.
 - **Exploring**: Monitoring, observability and CI/CD pipelines.
-- **Learning**: Continuously upskilling via Udemy, with over 18,000 minutes of coursework last year (2023).
+- **Learning**: Continuously upskilling via Udemy, with over 15,600 minutes of coursework last year (2024).
 - **Based in**: Espoo, Finland.
 
 ## When I code mobile applications, I rely on
